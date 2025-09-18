@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/deoclides/">
-  <img width="100%" src="HAL_9000.jpg">
+  <img width="100%" src="hal9000_github.jpgg">
 </a>
 
 ## Hi there 👋
