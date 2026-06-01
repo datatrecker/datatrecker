@@ -4,7 +4,7 @@
 
 ## Hi there
 
-Deoclides Souza Filho is a senior professor in ESPM’s postgraduate program, where he teaches Technology, Data Science and Decision‑Making. He holds a master’s in Applied Computing – AI – Neural Networks from INPE, a second master’s in Avionics from ISAE‑SUPAERO (France) and a B.Sc. in Electronic Engineering (Universidade Gama Filho). With 22 years at Nokia (formerly Alcatel‑Lucent), he led Sales‑Operations Analytics, Latin‑America sales‑operations management and offer‑control for the Caribbean region, driving data‑driven strategies and performance insights. His expertise bridges advanced analytics, AI‑enabled modeling and practical business decision support.
+Deoclides Souza Filho is a senior professor in ESPM’s postgraduate program, where he teaches Technology, Data Science, and Decision-Making. He holds a master’s degree in Applied Computing (AI and Neural Networks) from INPE, a second master’s degree in Avionics from ISAE-SUPAERO (France), and a B.S. in Electronic Engineering from Universidade Gama Filho. With 22 years at Nokia (formerly Alcatel-Lucent), he led sales operations analytics, Latin American sales operations management, and offer control for the Caribbean region, driving data-driven strategies and performance insights. His expertise bridges advanced analytics, AI-enabled modeling, and practical business decision support.
 
 <!--
 **datatrecker/datatrecker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
